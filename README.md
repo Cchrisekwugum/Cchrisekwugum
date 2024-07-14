@@ -1,7 +1,7 @@
-- 👋 Hello there, I’m @Cchrisekwugum
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning R and Python for data science
-- 💞️ I’m looking to collaborate on end to end data science projects
+- 👋 Hello there, I’m Chris.
+- 👀 I’m interested in data science and machine learning engineering.
+- 🌱 I’m currently learning R and Python for data science.
+- 💞️ I’m looking to collaborate on end to end data science projects.
 - 📫 You can reach me at cchrisewugum@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
